@@ -1,0 +1,12 @@
+education@KV-LT-0025QH9:~/DevOps_online_Kiev_2021Q3/m1/task1.1$ git reflog
+d8bb5f1 (HEAD -> master, origin/master, styles, develop) HEAD@{0}: checkout: moving from develop to master
+d8bb5f1 (HEAD -> master, origin/master, styles, develop) HEAD@{1}: checkout: moving from develop to develop
+d8bb5f1 (HEAD -> master, origin/master, styles, develop) HEAD@{2}: merge styles: Fast-forward
+61062a5 (images) HEAD@{3}: checkout: moving from styles to develop
+d8bb5f1 (HEAD -> master, origin/master, styles, develop) HEAD@{4}: commit: index finallly
+e2c889e HEAD@{5}: commit: styles to index
+61062a5 (images) HEAD@{6}: checkout: moving from develop to styles
+61062a5 (images) HEAD@{7}: checkout: moving from images to develop
+61062a5 (images) HEAD@{8}: commit: images 1 and 2
+cc346f6 HEAD@{9}: commit (initial): first index.html
+
